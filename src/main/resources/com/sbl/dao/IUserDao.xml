@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.sbl.dao.IUserDao">
+
+    <!-- 定义User的resultMap-->
+    <resultMap id="userAccountMap" type="user">
+        <id property="id" column="id"></id>
+        <result property="username" column="username"></result>
+        <result property="address" column="address"></result>
+        <result property="sex" column="sex"></result>
+        <result property="birthday" column="birthday"></result>
+        <!-- 配置user对象中accounts集合的映射
+         select:表明当前属性是调用select指定方法查出的结果 是XXXMapper.xml中namespace。方法名
+          column；指定将哪一列的值传给这个方法
+            所以association是用于一对一和多对一，而collection是用于一对多的关系
+         -->
+        <collection property="accounts" ofType="account" select="com.sbl.dao.IAccountDao.findAccountByUid" column="id"></collection>
+    </resultMap>
+
+    <!-- 查询所有 -->
+    <select id="findAll" resultMap="userAccountMap">
+        select * from user
+    </select>
+
+    <!-- 根据id查询用户 -->
+    <select id="findById" parameterType="INT" resultType="user">
+        select * from user where id = #{uid}
+    </select>
+
+</mapper>

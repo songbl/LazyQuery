@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.sbl.dao.IAccountDao">
+
+    <!-- 定义封装account和user的resultMap -->
+    <resultMap id="accountUserMap" type="account">
+        <id property="id" column="id"></id>
+        <result property="uid" column="uid"></result>
+        <result property="money" column="money"></result>
+        <!-- 一对一的关系映射：配置封装user的内容
+        select:我们要调用的select映射的id； 方法名
+        column；指定将哪一列的值传给这个方法；就是传递给select映射的参数
+        一对一了，使用延迟加载
+        -->
+        <association property="user" column="uid" javaType="user" select="com.sbl.dao.IUserDao.findById"></association>
+    </resultMap>
+
+    <!-- 查询所有===
+        1. 首先会执行自己的查询操作，|查询出所有用户的信息
+        2. 再调用配置的查询，select...,传入参数（初次查询结果的列）
+     -->
+    <select id="findAll" resultMap="accountUserMap">
+        select * from account
+    </select>
+
+    <!-- 根据用户id查询账户列表 -->
+    <select id="findAccountByUid" resultType="account">
+        select * from account where uid = #{uid}
+    </select>
+
+</mapper>

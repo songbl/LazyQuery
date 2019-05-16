@@ -1,0 +1,488 @@
+2019-05-16 11:04:29,245 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-05-16 11:04:29,406 161    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-05-16 11:04:29,407 162    [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-05-16 11:04:29,407 162    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-05-16 11:04:29,408 163    [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-05-16 11:04:29,409 164    [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-05-16 11:04:29,430 185    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:04:29,430 185    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:04:29,430 185    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:04:29,431 186    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:05:13,159 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-05-16 11:05:13,246 87     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-05-16 11:05:13,246 87     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-05-16 11:05:13,246 87     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-05-16 11:05:13,247 88     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-05-16 11:05:13,247 88     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-05-16 11:05:13,266 107    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:05:13,266 107    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:05:13,266 107    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:05:13,267 108    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:07:04,597 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-05-16 11:07:04,683 86     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-05-16 11:07:04,683 86     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-05-16 11:07:04,684 87     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-05-16 11:07:04,684 87     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-05-16 11:07:04,684 87     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-05-16 11:07:04,710 113    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:07:04,711 114    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:07:04,711 114    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:07:04,711 114    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:08:09,275 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-05-16 11:08:09,363 88     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-05-16 11:08:09,363 88     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-05-16 11:08:09,364 89     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-05-16 11:08:09,364 89     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-05-16 11:08:09,365 90     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-05-16 11:08:09,381 106    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:08:09,381 106    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:08:09,381 106    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:08:09,381 106    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:08:26,360 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-05-16 11:08:26,445 85     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-05-16 11:08:26,445 85     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-05-16 11:08:26,445 85     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-05-16 11:08:26,446 86     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-05-16 11:08:26,446 86     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-05-16 11:08:26,466 106    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:08:26,466 106    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:08:26,466 106    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:08:26,466 106    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:08:26,469 109    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:08:26,469 109    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:08:26,520 160    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IAccountDao.class
+2019-05-16 11:08:26,521 161    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IAccountDao.xml
+2019-05-16 11:08:26,521 161    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.class
+2019-05-16 11:08:26,521 161    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.xml
+2019-05-16 11:08:26,521 161    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:08:26,521 161    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.class
+2019-05-16 11:08:26,521 161    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.class
+2019-05-16 11:08:26,522 162    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1   
+2019-05-16 11:08:26,523 163    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.xml
+2019-05-16 11:08:26,524 164    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.xml
+2019-05-16 11:08:26,524 164    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2019-05-16 11:08:26,524 164    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.class
+2019-05-16 11:08:26,524 164    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.class
+2019-05-16 11:08:26,525 165    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 
+2019-05-16 11:08:26,525 165    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.xml
+2019-05-16 11:08:26,525 165    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.xml
+2019-05-16 11:08:26,525 165    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2019-05-16 11:08:26,526 166    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.dao.IAccountDao matches criteria [is assignable to Object]
+2019-05-16 11:08:26,526 166    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.dao.IUserDao matches criteria [is assignable to Object]
+2019-05-16 11:09:09,653 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-05-16 11:09:09,757 104    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-05-16 11:09:09,757 104    [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-05-16 11:09:09,758 105    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-05-16 11:09:09,759 106    [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-05-16 11:09:09,760 107    [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-05-16 11:09:09,797 144    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:09:09,798 145    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:09:09,798 145    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:09:09,798 145    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:09:09,802 149    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:09:09,802 149    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:09:09,838 185    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IAccountDao.class
+2019-05-16 11:09:09,838 185    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IAccountDao.xml
+2019-05-16 11:09:09,838 185    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.class
+2019-05-16 11:09:09,838 185    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.xml
+2019-05-16 11:09:09,839 186    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:09:09,839 186    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.class
+2019-05-16 11:09:09,839 186    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.class
+2019-05-16 11:09:09,844 191    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1   
+2019-05-16 11:09:09,845 192    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.xml
+2019-05-16 11:09:09,845 192    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.xml
+2019-05-16 11:09:09,846 193    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2019-05-16 11:09:09,846 193    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.class
+2019-05-16 11:09:09,846 193    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.class
+2019-05-16 11:09:09,847 194    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 
+2019-05-16 11:09:09,847 194    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.xml
+2019-05-16 11:09:09,847 194    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.xml
+2019-05-16 11:09:09,847 194    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2019-05-16 11:09:09,848 195    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.dao.IAccountDao matches criteria [is assignable to Object]
+2019-05-16 11:09:09,848 195    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.dao.IUserDao matches criteria [is assignable to Object]
+2019-05-16 11:10:11,420 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-05-16 11:10:11,517 97     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-05-16 11:10:11,517 97     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-05-16 11:10:11,518 98     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-05-16 11:10:11,518 98     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-05-16 11:10:11,519 99     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-05-16 11:10:11,519 99     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:10:11,519 99     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:10:11,552 132    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: Account.class
+2019-05-16 11:10:11,552 132    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-05-16 11:10:11,553 133    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:10:11,553 133    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/Account.class
+2019-05-16 11:10:11,553 133    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/Account.class
+2019-05-16 11:10:11,553 133    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 F
+2019-05-16 11:10:11,554 134    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/User.class
+2019-05-16 11:10:11,554 134    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/User.class
+2019-05-16 11:10:11,555 135    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 [
+2019-05-16 11:10:11,556 136    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.domain.Account matches criteria [is assignable to Object]
+2019-05-16 11:10:11,557 137    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.domain.User matches criteria [is assignable to Object]
+2019-05-16 11:10:11,585 165    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:10:11,585 165    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:10:11,585 165    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:10:11,586 166    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:10:11,588 168    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:10:11,588 168    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:10:11,588 168    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IAccountDao.class
+2019-05-16 11:10:11,588 168    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IAccountDao.xml
+2019-05-16 11:10:11,588 168    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.class
+2019-05-16 11:10:11,589 169    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.xml
+2019-05-16 11:10:11,589 169    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:10:11,589 169    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.class
+2019-05-16 11:10:11,589 169    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.class
+2019-05-16 11:10:11,589 169    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1   
+2019-05-16 11:10:11,590 170    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.xml
+2019-05-16 11:10:11,590 170    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.xml
+2019-05-16 11:10:11,590 170    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2019-05-16 11:10:11,593 173    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.class
+2019-05-16 11:10:11,594 174    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.class
+2019-05-16 11:10:11,594 174    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 
+2019-05-16 11:10:11,595 175    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.xml
+2019-05-16 11:10:11,595 175    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.xml
+2019-05-16 11:10:11,595 175    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2019-05-16 11:10:11,596 176    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.dao.IAccountDao matches criteria [is assignable to Object]
+2019-05-16 11:10:11,596 176    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.dao.IUserDao matches criteria [is assignable to Object]
+2019-05-16 11:10:11,726 306    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-05-16 11:10:11,933 513    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1131645570.
+2019-05-16 11:10:11,935 515    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - ==>  Preparing: select * from account 
+2019-05-16 11:10:11,963 543    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - ==> Parameters: 
+2019-05-16 11:10:12,038 618    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@43738a82]
+2019-05-16 11:10:12,038 618    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1131645570 to pool.
+2019-05-16 11:11:46,090 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-05-16 11:11:46,187 97     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-05-16 11:11:46,187 97     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-05-16 11:11:46,187 97     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-05-16 11:11:46,187 97     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-05-16 11:11:46,188 98     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-05-16 11:11:46,189 99     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:11:46,189 99     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:11:46,226 136    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: Account.class
+2019-05-16 11:11:46,227 137    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-05-16 11:11:46,227 137    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:11:46,227 137    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/Account.class
+2019-05-16 11:11:46,227 137    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/Account.class
+2019-05-16 11:11:46,228 138    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 F
+2019-05-16 11:11:46,228 138    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/User.class
+2019-05-16 11:11:46,228 138    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/User.class
+2019-05-16 11:11:46,232 142    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 [
+2019-05-16 11:11:46,233 143    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.domain.Account matches criteria [is assignable to Object]
+2019-05-16 11:11:46,233 143    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.domain.User matches criteria [is assignable to Object]
+2019-05-16 11:11:46,254 164    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:11:46,254 164    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:11:46,254 164    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:11:46,254 164    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:11:46,259 169    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:11:46,259 169    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:11:46,260 170    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IAccountDao.class
+2019-05-16 11:11:46,260 170    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IAccountDao.xml
+2019-05-16 11:11:46,261 171    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.class
+2019-05-16 11:11:46,261 171    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.xml
+2019-05-16 11:11:46,261 171    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:11:46,261 171    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.class
+2019-05-16 11:11:46,261 171    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.class
+2019-05-16 11:11:46,261 171    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1   
+2019-05-16 11:11:46,261 171    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.xml
+2019-05-16 11:11:46,262 172    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.xml
+2019-05-16 11:11:46,262 172    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2019-05-16 11:11:46,262 172    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.class
+2019-05-16 11:11:46,262 172    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.class
+2019-05-16 11:11:46,263 173    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 
+2019-05-16 11:11:46,263 173    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.xml
+2019-05-16 11:11:46,263 173    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.xml
+2019-05-16 11:11:46,264 174    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2019-05-16 11:11:46,264 174    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.dao.IAccountDao matches criteria [is assignable to Object]
+2019-05-16 11:11:46,264 174    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.dao.IUserDao matches criteria [is assignable to Object]
+2019-05-16 11:11:46,364 274    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-05-16 11:11:46,565 475    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1131645570.
+2019-05-16 11:11:46,567 477    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - ==>  Preparing: select * from account 
+2019-05-16 11:11:46,594 504    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - ==> Parameters: 
+2019-05-16 11:11:46,664 574    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - <==      Total: 3
+2019-05-16 11:11:46,664 574    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@43738a82]
+2019-05-16 11:11:46,664 574    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1131645570 to pool.
+2019-05-16 11:13:39,272 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-05-16 11:13:39,356 84     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-05-16 11:13:39,356 84     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-05-16 11:13:39,357 85     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-05-16 11:13:39,358 86     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-05-16 11:13:39,358 86     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-05-16 11:13:39,359 87     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:13:39,359 87     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:13:39,395 123    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: Account.class
+2019-05-16 11:13:39,397 125    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-05-16 11:13:39,397 125    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:13:39,398 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/Account.class
+2019-05-16 11:13:39,398 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/Account.class
+2019-05-16 11:13:39,398 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 F
+2019-05-16 11:13:39,399 127    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/User.class
+2019-05-16 11:13:39,399 127    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/User.class
+2019-05-16 11:13:39,400 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 [
+2019-05-16 11:13:39,400 128    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.domain.Account matches criteria [is assignable to Object]
+2019-05-16 11:13:39,401 129    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.domain.User matches criteria [is assignable to Object]
+2019-05-16 11:13:39,426 154    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:13:39,426 154    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:13:39,426 154    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:13:39,426 154    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:13:39,428 156    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:13:39,428 156    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:13:39,428 156    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IAccountDao.class
+2019-05-16 11:13:39,429 157    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IAccountDao.xml
+2019-05-16 11:13:39,429 157    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.class
+2019-05-16 11:13:39,429 157    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.xml
+2019-05-16 11:13:39,429 157    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:13:39,429 157    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.class
+2019-05-16 11:13:39,429 157    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.class
+2019-05-16 11:13:39,430 158    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1   
+2019-05-16 11:13:39,430 158    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.xml
+2019-05-16 11:13:39,430 158    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.xml
+2019-05-16 11:13:39,430 158    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2019-05-16 11:13:39,430 158    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.class
+2019-05-16 11:13:39,431 159    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.class
+2019-05-16 11:13:39,431 159    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 
+2019-05-16 11:13:39,431 159    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.xml
+2019-05-16 11:13:39,431 159    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.xml
+2019-05-16 11:13:39,431 159    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2019-05-16 11:13:39,432 160    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.dao.IAccountDao matches criteria [is assignable to Object]
+2019-05-16 11:13:39,432 160    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.dao.IUserDao matches criteria [is assignable to Object]
+2019-05-16 11:13:39,545 273    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-05-16 11:13:39,739 467    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1131645570.
+2019-05-16 11:13:39,741 469    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - ==>  Preparing: select * from account 
+2019-05-16 11:13:39,774 502    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - ==> Parameters: 
+2019-05-16 11:13:39,820 548    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - <==      Total: 3
+2019-05-16 11:13:39,820 548    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==>  Preparing: select * from user where id = ? 
+2019-05-16 11:13:39,821 549    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==> Parameters: 46(Integer)
+2019-05-16 11:13:39,830 558    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - <==      Total: 1
+2019-05-16 11:13:39,830 558    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==>  Preparing: select * from user where id = ? 
+2019-05-16 11:13:39,830 558    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==> Parameters: 45(Integer)
+2019-05-16 11:13:39,831 559    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - <==      Total: 1
+2019-05-16 11:13:39,835 563    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@43738a82]
+2019-05-16 11:13:39,835 563    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1131645570 to pool.
+2019-05-16 11:50:09,639 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-05-16 11:50:09,743 104    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-05-16 11:50:09,743 104    [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-05-16 11:50:09,744 105    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-05-16 11:50:09,744 105    [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-05-16 11:50:09,745 106    [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-05-16 11:50:09,745 106    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:50:09,745 106    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:50:09,796 157    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: Account.class
+2019-05-16 11:50:09,797 158    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-05-16 11:50:09,797 158    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:50:09,797 158    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/Account.class
+2019-05-16 11:50:09,797 158    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/Account.class
+2019-05-16 11:50:09,798 159    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 F
+2019-05-16 11:50:09,799 160    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/User.class
+2019-05-16 11:50:09,799 160    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/User.class
+2019-05-16 11:50:09,802 163    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 [
+2019-05-16 11:50:09,802 163    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.domain.Account matches criteria [is assignable to Object]
+2019-05-16 11:50:09,803 164    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.domain.User matches criteria [is assignable to Object]
+2019-05-16 11:50:09,830 191    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:50:09,830 191    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:50:09,830 191    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:50:09,830 191    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:50:09,832 193    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:50:09,832 193    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:50:09,834 195    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IAccountDao.class
+2019-05-16 11:50:09,834 195    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IAccountDao.xml
+2019-05-16 11:50:09,834 195    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.class
+2019-05-16 11:50:09,835 196    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.xml
+2019-05-16 11:50:09,835 196    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:50:09,835 196    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.class
+2019-05-16 11:50:09,835 196    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.class
+2019-05-16 11:50:09,835 196    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1   
+2019-05-16 11:50:09,836 197    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.xml
+2019-05-16 11:50:09,836 197    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.xml
+2019-05-16 11:50:09,836 197    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2019-05-16 11:50:09,836 197    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.class
+2019-05-16 11:50:09,837 198    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.class
+2019-05-16 11:50:09,837 198    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 
+2019-05-16 11:50:09,837 198    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.xml
+2019-05-16 11:50:09,837 198    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.xml
+2019-05-16 11:50:09,837 198    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2019-05-16 11:50:09,837 198    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.dao.IAccountDao matches criteria [is assignable to Object]
+2019-05-16 11:50:09,838 199    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.dao.IUserDao matches criteria [is assignable to Object]
+2019-05-16 11:50:09,946 307    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-05-16 11:50:10,140 501    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1131645570.
+2019-05-16 11:50:10,142 503    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - ==>  Preparing: select * from account 
+2019-05-16 11:50:10,168 529    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - ==> Parameters: 
+2019-05-16 11:50:10,242 603    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - <==      Total: 3
+2019-05-16 11:50:10,244 605    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==>  Preparing: select * from user where id = ? 
+2019-05-16 11:50:10,245 606    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==> Parameters: 46(Integer)
+2019-05-16 11:50:10,250 611    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - <==      Total: 1
+2019-05-16 11:50:10,251 612    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==>  Preparing: select * from user where id = ? 
+2019-05-16 11:50:10,251 612    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==> Parameters: 45(Integer)
+2019-05-16 11:50:10,252 613    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - <==      Total: 1
+2019-05-16 11:50:10,256 617    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@43738a82]
+2019-05-16 11:50:10,256 617    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1131645570 to pool.
+2019-05-16 11:55:51,289 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-05-16 11:55:51,374 85     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-05-16 11:55:51,374 85     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-05-16 11:55:51,374 85     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-05-16 11:55:51,375 86     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-05-16 11:55:51,375 86     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-05-16 11:55:51,375 86     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:55:51,376 87     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:55:51,403 114    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: Account.class
+2019-05-16 11:55:51,403 114    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-05-16 11:55:51,403 114    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:55:51,404 115    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/Account.class
+2019-05-16 11:55:51,404 115    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/Account.class
+2019-05-16 11:55:51,405 116    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 F
+2019-05-16 11:55:51,405 116    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/User.class
+2019-05-16 11:55:51,406 117    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/User.class
+2019-05-16 11:55:51,407 118    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 [
+2019-05-16 11:55:51,408 119    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.domain.Account matches criteria [is assignable to Object]
+2019-05-16 11:55:51,408 119    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.domain.User matches criteria [is assignable to Object]
+2019-05-16 11:55:51,431 142    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:55:51,431 142    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:55:51,431 142    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:55:51,431 142    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:55:51,434 145    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:55:51,434 145    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:55:51,435 146    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IAccountDao.class
+2019-05-16 11:55:51,435 146    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IAccountDao.xml
+2019-05-16 11:55:51,435 146    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.class
+2019-05-16 11:55:51,435 146    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.xml
+2019-05-16 11:55:51,437 148    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:55:51,437 148    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.class
+2019-05-16 11:55:51,437 148    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.class
+2019-05-16 11:55:51,437 148    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1   
+2019-05-16 11:55:51,438 149    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.xml
+2019-05-16 11:55:51,438 149    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.xml
+2019-05-16 11:55:51,439 150    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2019-05-16 11:55:51,439 150    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.class
+2019-05-16 11:55:51,439 150    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.class
+2019-05-16 11:55:51,439 150    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 
+2019-05-16 11:55:51,440 151    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.xml
+2019-05-16 11:55:51,441 152    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.xml
+2019-05-16 11:55:51,446 157    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2019-05-16 11:55:51,447 158    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.dao.IAccountDao matches criteria [is assignable to Object]
+2019-05-16 11:55:51,447 158    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.dao.IUserDao matches criteria [is assignable to Object]
+2019-05-16 11:55:51,583 294    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-05-16 11:55:51,791 502    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1131645570.
+2019-05-16 11:55:51,792 503    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - ==>  Preparing: select * from account 
+2019-05-16 11:55:51,831 542    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - ==> Parameters: 
+2019-05-16 11:55:51,880 591    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - <==      Total: 3
+2019-05-16 11:55:51,880 591    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==>  Preparing: select * from user where id = ? 
+2019-05-16 11:55:51,881 592    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==> Parameters: 46(Integer)
+2019-05-16 11:55:51,889 600    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - <==      Total: 1
+2019-05-16 11:55:51,890 601    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==>  Preparing: select * from user where id = ? 
+2019-05-16 11:55:51,890 601    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==> Parameters: 45(Integer)
+2019-05-16 11:55:51,890 601    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - <==      Total: 1
+2019-05-16 11:55:51,893 604    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@43738a82]
+2019-05-16 11:55:51,894 605    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1131645570 to pool.
+2019-05-16 11:58:12,689 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-05-16 11:58:12,785 96     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-05-16 11:58:12,785 96     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-05-16 11:58:12,786 97     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-05-16 11:58:12,786 97     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-05-16 11:58:12,787 98     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-05-16 11:58:12,787 98     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:58:12,787 98     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:58:12,814 125    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: Account.class
+2019-05-16 11:58:12,814 125    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-05-16 11:58:12,816 127    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:58:12,816 127    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/Account.class
+2019-05-16 11:58:12,816 127    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/Account.class
+2019-05-16 11:58:12,817 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 F
+2019-05-16 11:58:12,817 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/User.class
+2019-05-16 11:58:12,818 129    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/User.class
+2019-05-16 11:58:12,818 129    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 [
+2019-05-16 11:58:12,819 130    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.domain.Account matches criteria [is assignable to Object]
+2019-05-16 11:58:12,820 131    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.domain.User matches criteria [is assignable to Object]
+2019-05-16 11:58:12,856 167    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:58:12,856 167    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:58:12,856 167    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:58:12,856 167    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:58:12,858 169    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:58:12,858 169    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:58:12,859 170    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IAccountDao.class
+2019-05-16 11:58:12,859 170    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IAccountDao.xml
+2019-05-16 11:58:12,859 170    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.class
+2019-05-16 11:58:12,861 172    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.xml
+2019-05-16 11:58:12,861 172    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:58:12,861 172    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.class
+2019-05-16 11:58:12,862 173    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.class
+2019-05-16 11:58:12,862 173    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1   
+2019-05-16 11:58:12,863 174    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.xml
+2019-05-16 11:58:12,863 174    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.xml
+2019-05-16 11:58:12,863 174    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2019-05-16 11:58:12,863 174    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.class
+2019-05-16 11:58:12,863 174    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.class
+2019-05-16 11:58:12,865 176    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 
+2019-05-16 11:58:12,866 177    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.xml
+2019-05-16 11:58:12,866 177    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.xml
+2019-05-16 11:58:12,866 177    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2019-05-16 11:58:12,867 178    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.dao.IAccountDao matches criteria [is assignable to Object]
+2019-05-16 11:58:12,867 178    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.dao.IUserDao matches criteria [is assignable to Object]
+2019-05-16 11:58:13,000 311    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-05-16 11:58:13,205 516    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1131645570.
+2019-05-16 11:58:13,206 517    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - ==>  Preparing: select * from account 
+2019-05-16 11:58:13,234 545    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - ==> Parameters: 
+2019-05-16 11:58:13,335 646    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - <==      Total: 3
+2019-05-16 11:58:13,335 646    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==>  Preparing: select * from user where id = ? 
+2019-05-16 11:58:13,335 646    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==> Parameters: 46(Integer)
+2019-05-16 11:58:13,341 652    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - <==      Total: 1
+2019-05-16 11:58:13,348 659    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==>  Preparing: select * from user where id = ? 
+2019-05-16 11:58:13,348 659    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==> Parameters: 45(Integer)
+2019-05-16 11:58:13,349 660    [           main] DEBUG  com.sbl.dao.IUserDao.findById  - <==      Total: 1
+2019-05-16 11:58:13,354 665    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@43738a82]
+2019-05-16 11:58:13,354 665    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1131645570 to pool.
+2019-05-16 11:59:59,467 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2019-05-16 11:59:59,607 140    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2019-05-16 11:59:59,607 140    [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2019-05-16 11:59:59,609 142    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2019-05-16 11:59:59,610 143    [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2019-05-16 11:59:59,612 145    [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2019-05-16 11:59:59,613 146    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:59:59,613 146    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:59:59,660 193    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: Account.class
+2019-05-16 11:59:59,660 193    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: User.class
+2019-05-16 11:59:59,660 193    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain
+2019-05-16 11:59:59,667 200    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/Account.class
+2019-05-16 11:59:59,667 200    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/Account.class
+2019-05-16 11:59:59,668 201    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 F
+2019-05-16 11:59:59,668 201    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/User.class
+2019-05-16 11:59:59,669 202    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/domain/User.class
+2019-05-16 11:59:59,670 203    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 [
+2019-05-16 11:59:59,671 204    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.domain.Account matches criteria [is assignable to Object]
+2019-05-16 11:59:59,672 205    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.domain.User matches criteria [is assignable to Object]
+2019-05-16 11:59:59,704 237    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:59:59,704 237    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:59:59,704 237    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:59:59,704 237    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2019-05-16 11:59:59,707 240    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:59:59,707 240    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:59:59,709 242    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IAccountDao.class
+2019-05-16 11:59:59,710 243    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IAccountDao.xml
+2019-05-16 11:59:59,710 243    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.class
+2019-05-16 11:59:59,711 244    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.xml
+2019-05-16 11:59:59,711 244    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao
+2019-05-16 11:59:59,711 244    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.class
+2019-05-16 11:59:59,712 245    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.class
+2019-05-16 11:59:59,713 246    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1   
+2019-05-16 11:59:59,716 249    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.xml
+2019-05-16 11:59:59,716 249    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IAccountDao.xml
+2019-05-16 11:59:59,717 250    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2019-05-16 11:59:59,717 250    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.class
+2019-05-16 11:59:59,720 253    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.class
+2019-05-16 11:59:59,722 255    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1 
+2019-05-16 11:59:59,722 255    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.xml
+2019-05-16 11:59:59,723 256    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/D:/EEProject/LazyQuery/target/classes/com/sbl/dao/IUserDao.xml
+2019-05-16 11:59:59,724 257    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2019-05-16 11:59:59,724 257    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.dao.IAccountDao matches criteria [is assignable to Object]
+2019-05-16 11:59:59,724 257    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.sbl.dao.IUserDao matches criteria [is assignable to Object]
+2019-05-16 11:59:59,849 382    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2019-05-16 12:00:00,051 584    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 837457281.
+2019-05-16 12:00:00,053 586    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - ==>  Preparing: select * from account 
+2019-05-16 12:00:00,073 606    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - ==> Parameters: 
+2019-05-16 12:00:00,125 658    [           main] DEBUG om.sbl.dao.IAccountDao.findAll  - <==      Total: 3
+2019-05-16 12:00:16,697 17230  [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==>  Preparing: select * from user where id = ? 
+2019-05-16 12:00:16,697 17230  [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==> Parameters: 46(Integer)
+2019-05-16 12:00:16,704 17237  [           main] DEBUG  com.sbl.dao.IUserDao.findById  - <==      Total: 1
+2019-05-16 12:00:35,688 36221  [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==>  Preparing: select * from user where id = ? 
+2019-05-16 12:00:35,688 36221  [           main] DEBUG  com.sbl.dao.IUserDao.findById  - ==> Parameters: 45(Integer)
+2019-05-16 12:00:35,689 36222  [           main] DEBUG  com.sbl.dao.IUserDao.findById  - <==      Total: 1
+2019-05-16 12:01:25,852 86385  [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@31ea9581]
+2019-05-16 12:01:25,853 86386  [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 837457281 to pool.
